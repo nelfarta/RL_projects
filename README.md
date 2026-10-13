@@ -1,6 +1,6 @@
 # RL Projects
 
-Reinforcement learning projects.
+Contains all the Reinforcement learning projects I did.
 
 ## Projects
 
